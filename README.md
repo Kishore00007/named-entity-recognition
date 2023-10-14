@@ -30,8 +30,8 @@ Predict the output for the test data and compare it with the actual value.
 
 ## PROGRAM
 ```
-Name: K sucharitha
-Reg no:212221240021
+Name: Kishore Kumar 
+Reg no:212221240023
 ```
 ```
 import matplotlib.pyplot as plt
